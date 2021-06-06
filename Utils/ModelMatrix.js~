@@ -1,0 +1,6 @@
+function ModelMatrix(floatArr, transpose){
+
+   this.length = 16;
+   this.rows = this.cols = 4;
+   
+   
